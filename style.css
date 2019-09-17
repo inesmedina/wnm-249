@@ -1,0 +1,29 @@
+body {
+	background: black;
+	font-size: 62.5%;
+}
+
+img {
+	  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+	max-width: 400px;
+}
+h1{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 40px;
+	color: white;
+	text-align: center;
+}
+
+p{
+	font-family: 'Lato', sans-serif;
+	font-size: 18px;
+	color: white;
+	text-align: center;
+	max-width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+}
+}
